@@ -2,9 +2,9 @@
 
 ## About
 
-前端开发 | 山东大学 | 美团 | Shopee
-
-## Tech
+- Frontend developer.
+- Studied at Shandong University.
+- Worked at Meituan and Shopee.
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
-
-## Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=sdumai&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="sdumai GitHub stats" />
