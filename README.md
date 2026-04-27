@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm sdumai</h1>
+<h1 align="center">Hi, I'm Mai</h1>
 
 <p align="center">
   Frontend developer focused on clean interfaces, reliable engineering, and practical tools.
