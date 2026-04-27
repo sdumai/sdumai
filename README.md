@@ -1,18 +1,5 @@
 <h1 align="center">Hi, I'm Mai</h1>
 
-<p align="center">
-  Frontend developer focused on clean interfaces, reliable engineering, and practical tools.
-</p>
-
-<p align="center">
-  <a href="https://github.com/sdumai">
-    <img src="https://img.shields.io/badge/GitHub-sdumai-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=sdumai&style=flat-square&color=0e75b6" alt="profile views" />
-</p>
-
----
-
 ## About
 
 - Frontend developer working with React, Vue, React Native, and TypeScript.
