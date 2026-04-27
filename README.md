@@ -2,8 +2,7 @@
 
 ## About
 
-- Frontend developer working with React, Vue, React Native, and TypeScript.
-- Focused on maintainable UI systems, frontend architecture, and engineering productivity.
+前端开发 | 山东大学 | 美团 | Shopee
 
 ## Tech
 
