@@ -17,7 +17,3 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sdumai&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="sdumai GitHub stats" />
-</p>
