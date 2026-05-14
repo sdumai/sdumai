@@ -3,9 +3,9 @@
 ## About
 
 - Frontend developer
-- Studied at Shandong University
-- Worked at Meituan and Shopee
-
+- 2022.09 - 2026.06: 山东大学
+- 2025.04 - 2025.08: 美团 <前端开发实习生>
+- 2026.12 - 至今: Shopee <前端开发工程师>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript" />
